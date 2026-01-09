@@ -1,16 +1,50 @@
-# React + Vite
+## 🎓 Learning & Teaching Focus
+This project is planned and designed with a strong learning-first mindset.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- During the development of this project, the goal is to deeply learn data
+  structures by implementing them from scratch in C++ and visualizing their behavior.
+- At the same time, the project aims to help students and beginners understand
+  data structures visually, step by step, rather than only through theory.
 
-Currently, two official plugins are available:
+Each data structure will be implemented, visualized, and documented in a way
+that makes learning intuitive for both the developer and the learner.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👥 Who This Project Is For
 
-## React Compiler
+- Students learning Data Structures and Algorithms
+- Beginners who struggle with theoretical explanations
+- Developers who want to understand how data structures work internally
+- Anyone interested in system-level programming and visualization
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🗺️ Project Roadmap
 
-## Expanding the ESLint configuration
+### Phase 1: Linear Data Structures
+- Array
+- Stack
+- Queue
+- Linked List
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Phase 2: Non-Linear Data Structures
+- Tree
+- Graph
+
+### Phase 3: DS Visualizations & Learning Enhancements
+- Step-by-step operation animation
+- Memory representation for each DS
+- Complexity visualization (Time/Space)
+
+## 🛠️ Technologies Used
+
+- C++ (Core data structure logic)
+- WebAssembly (Run C++ in the browser)
+- React (Frontend visualization)
+- HTML / CSS and prebuilt styling libraries or frameworks (UI styling)
+- Git & GitHub (Version control)
+
+## Author 
+Afaq Ahmad 
+
+## Contact
+Phone No: 0311-9990842
+Email: afaqahmad2593@gmail.com
+LinkedIn: www.linkedin.com/in/afaq-ahmad-ali
