@@ -45,6 +45,6 @@ that makes learning intuitive for both the developer and the learner.
 Afaq Ahmad 
 
 ## Contact
-Phone No: 0311-9990842
-Email: afaqahmad2593@gmail.com
+Phone No: 0311-9990842,
+Email: afaqahmad2593@gmail.com,
 LinkedIn: www.linkedin.com/in/afaq-ahmad-ali
